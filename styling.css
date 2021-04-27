@@ -410,12 +410,13 @@ tr td:last-child{
 }
 #mode {
     margin-left:30px;
-    background-color: white; /* Green */
+    background-color: greenyellow; /* Green */
     border: none;
-    color: rgb(231, 43, 115) ;
+    color:  rgb(68, 58, 58);
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
   }
+
