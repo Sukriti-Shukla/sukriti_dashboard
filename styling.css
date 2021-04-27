@@ -410,7 +410,7 @@ tr td:last-child{
 }
 #mode {
     margin-left:30px;
-    background-color: greenyellow; /* Green */
+    background-color: white; /* Green */
     border: none;
     color:  rgb(68, 58, 58);
     padding: 15px 32px;
